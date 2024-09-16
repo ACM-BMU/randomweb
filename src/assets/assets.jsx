@@ -7,6 +7,8 @@ import Internet from "./images/Internet.png";
 import Linkedin from "./images/LinkedIn.png";
 import Whtsp from "./images/WhatsApp.png";
 import over from "./images/over.png";
+import IMG2 from "./images/IMG2.png";
+import instructor from "./images/instructor.png";
 
 const assets = {
   picOne,
@@ -18,6 +20,8 @@ const assets = {
   Instagram,
   Linkedin,
   Internet,
+  IMG2,
+  instructor,
 };
 
 export default assets;
