@@ -9,6 +9,7 @@ import Whtsp from "./images/WhatsApp.png";
 import over from "./images/over.png";
 import IMG2 from "./images/IMG2.png";
 import instructor from "./images/instructor.png";
+import GitHub from "./images/GitHub.png";
 
 const assets = {
   picOne,
@@ -22,6 +23,7 @@ const assets = {
   Internet,
   IMG2,
   instructor,
+  GitHub,
 };
 
 export default assets;
