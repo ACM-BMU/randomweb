@@ -10,6 +10,8 @@ import over from "./images/over.png";
 import IMG2 from "./images/IMG2.png";
 import instructor from "./images/instructor.png";
 import GitHub from "./images/GitHub.png";
+import Hacktober1 from "./images/hacktober1.png";
+import Hacktober2 from "./images/hacktober2.png";
 
 const assets = {
   picOne,
@@ -24,6 +26,8 @@ const assets = {
   IMG2,
   instructor,
   GitHub,
+  Hacktober1,
+  Hacktober2,
 };
 
 export default assets;

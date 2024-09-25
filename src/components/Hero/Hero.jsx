@@ -21,6 +21,8 @@ function Hero() {
         </div>
         <img srcSet={assets.IMG2} alt="ACM" />
         <img srcSet={assets.instructor} alt="ACM" />
+        <img srcSet={assets.Hacktober1} alt="ACM" />
+        <img srcSet={assets.Hacktober2} alt="ACM" />
       </div>
     </>
   );
