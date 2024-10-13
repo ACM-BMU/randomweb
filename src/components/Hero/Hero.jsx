@@ -23,6 +23,7 @@ function Hero() {
         <img srcSet={assets.instructor} alt="ACM" />
         <img srcSet={assets.Hacktober1} alt="ACM" />
         <img srcSet={assets.Hacktober2} alt="ACM" />
+        <img srcSet={assets.UIUXIFYspeaker} alt="ACM" />
       </div>
     </>
   );
