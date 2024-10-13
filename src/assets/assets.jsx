@@ -12,6 +12,7 @@ import instructor from "./images/instructor.png";
 import GitHub from "./images/GitHub.png";
 import Hacktober1 from "./images/hacktober1.png";
 import Hacktober2 from "./images/hacktober2.png";
+import UIUXIFYspeaker from "./images/UIUXIFYspeaker.png"
 
 const assets = {
   picOne,
@@ -28,6 +29,7 @@ const assets = {
   GitHub,
   Hacktober1,
   Hacktober2,
+  UIUXIFYspeaker,
 };
 
 export default assets;
