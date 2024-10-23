@@ -15,6 +15,9 @@ import Hacktober2 from "./images/hacktober2.png";
 import UIUXIFYspeaker from "./images/UIUXIFYspeaker.png"
 import UIUXIFYtimeline from "./images/UIUXIFYtimeline.png"
 import TownHall1 from "./images/TownHall1.png"
+import Townhall2 from "./images/Townhall2.png"
+import Townhall3 from "./images/Townhall3.png"
+import Townhall4 from "./images/Townhall4.png"
 
 const assets = {
   picOne,
@@ -34,6 +37,9 @@ const assets = {
   UIUXIFYspeaker,
   UIUXIFYtimeline,
   TownHall1,
+  Townhall2,
+  Townhall3,
+  Townhall4,
 };
 
 export default assets;
