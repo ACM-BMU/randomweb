@@ -25,6 +25,7 @@ function Hero() {
         <img srcSet={assets.Hacktober2} alt="ACM" />
         <img srcSet={assets.UIUXIFYspeaker} alt="ACM" />
         <img srcSet={assets.UIUXIFYtimeline} alt="ACM" />
+        <img srcSet={assets.TownHall1} alt="ACM" />
       </div>
     </>
   );
