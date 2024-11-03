@@ -29,6 +29,7 @@ function Hero() {
         <img srcSet={assets.Townhall2} alt="ACM" />
         <img srcSet={assets.Townhall3} alt="ACM" />
         <img srcSet={assets.Townhall4} alt="ACM" />
+        <img srcSet={assets.Links4Geeks} alt="ACM" />
       </div>
     </>
   );

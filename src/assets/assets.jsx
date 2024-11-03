@@ -18,6 +18,7 @@ import TownHall1 from "./images/TownHall1.png"
 import Townhall2 from "./images/Townhall2.png"
 import Townhall3 from "./images/Townhall3.png"
 import Townhall4 from "./images/Townhall4.png"
+import Links4Geeks from "./images/LinksGeeksimg.png"
 
 const assets = {
   picOne,
@@ -40,6 +41,7 @@ const assets = {
   Townhall2,
   Townhall3,
   Townhall4,
+  Links4Geeks,
 };
 
 export default assets;
