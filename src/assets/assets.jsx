@@ -19,8 +19,10 @@ import Townhall2 from "./images/Townhall2.png"
 import Townhall3 from "./images/Townhall3.png"
 import Townhall4 from "./images/Townhall4.png"
 import Links4Geeks from "./images/LinksGeeksimg.png"
+import design from "./images/design.png"
 
 const assets = {
+  design,
   picOne,
   acm,
   over,
