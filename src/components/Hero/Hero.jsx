@@ -31,6 +31,15 @@ function Hero() {
         <img srcSet={assets.Townhall4} alt="ACM" />
         <img srcSet={assets.Links4Geeks} alt="ACM" />
         <img srcSet={assets.design} alt="ACM" />
+        <img srcSet={assets.acmbmu} alt="ACM" />
+        <img srcSet={assets.logo} alt="ACM" />
+        <img srcSet={assets.insta} alt="ACM" />
+        <img srcSet={assets.linkedin} alt="ACM" />
+        <img srcSet={assets.domains} alt="ACM" />
+        <img srcSet={assets.line} alt="ACM" />
+        <img srcSet={assets.web} alt="ACM" />
+        <img srcSet={assets.utube} alt="ACM" />
+      
       </div>
     </>
   );

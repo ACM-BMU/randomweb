@@ -20,8 +20,24 @@ import Townhall3 from "./images/Townhall3.png"
 import Townhall4 from "./images/Townhall4.png"
 import Links4Geeks from "./images/LinksGeeksimg.png"
 import design from "./images/design.png"
+import acmbmu from "./images/ACM-BMU_1.webp"
+import insta from "./images/instagram2x.webp"
+import linkedin from "./images/linkedin2x.webp"
+import logo from "./images/LOGO.webp"
+import domains from "./images/Social_impact_of_Data.webp"
+import line from "./images/Untitled_design_3.webp"
+import web from "./images/website2x.webp"
+import utube from "./images/youtube2x.webp"
 
 const assets = {
+  acmbmu,
+  logo,
+  insta,
+  linkedin,
+  domains,
+  line,
+  web,
+  utube,
   design,
   picOne,
   acm,
