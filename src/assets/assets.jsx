@@ -28,8 +28,12 @@ import domains from "./images/Social_impact_of_Data.webp"
 import line from "./images/Untitled_design_3.webp"
 import web from "./images/website2x.webp"
 import utube from "./images/youtube2x.webp"
+import sejal from "./images/sejal.png"
+import sejal2 from "./images/sejal2.png"
 
 const assets = {
+  sejal,
+  sejal2,
   acmbmu,
   logo,
   insta,
