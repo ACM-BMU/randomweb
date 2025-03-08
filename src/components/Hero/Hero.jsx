@@ -41,6 +41,7 @@ function Hero() {
         <img srcSet={assets.utube} alt="ACM" />
         <img srcSet={assets.sejal} alt="ACM" />
         <img srcSet={assets.sejal2} alt="ACM" />
+        <img srcSet={assets.glitch} alt="" />
       </div>
     </>
   );
