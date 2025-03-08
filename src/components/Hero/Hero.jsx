@@ -42,6 +42,7 @@ function Hero() {
         <img srcSet={assets.sejal} alt="ACM" />
         <img srcSet={assets.sejal2} alt="ACM" />
         <img srcSet={assets.glitch} alt="" />
+        {/* hello */}
       </div>
     </>
   );
