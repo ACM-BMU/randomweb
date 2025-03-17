@@ -31,6 +31,7 @@ import utube from "./images/youtube2x.webp"
 import sejal from "./images/sejal.png"
 import sejal2 from "./images/sejal2.png"
 import glitch from "./images/img3.png"
+import glitch_logo from "./images/glich_logo[1].png"
 
 const assets = {
   glitch,
@@ -66,6 +67,7 @@ const assets = {
   Townhall3,
   Townhall4,
   Links4Geeks,
+  glitch_logo
 };
 
 export default assets;
