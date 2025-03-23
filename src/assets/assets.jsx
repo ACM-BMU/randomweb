@@ -34,7 +34,7 @@ import glitch from "./images/img3.png"
 import glitch_logo from "./images/glich_logo[1].png"
 import glitchlive from "./images/Glitchlive.png"
 
-import glitchMov from "./images/glitchmail.gif"
+import glitchMov from "./images/Glitchlive.gif"
 const assets = {
   glitchlive,
   glitchMov,
