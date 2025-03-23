@@ -44,6 +44,7 @@ function Hero() {
         <img srcSet={assets.glitch} alt="" />
         <img srcSet={assets.glitch_logo} alt="" />
         <img srcSet={assets.glitchMov} alt="ACM" />
+        <img srcSet={assets.glitchlive} alt="ACM" />
         {/* hello */}
       </div>
     </>
