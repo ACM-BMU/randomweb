@@ -33,7 +33,9 @@ import sejal2 from "./images/sejal2.png"
 import glitch from "./images/img3.png"
 import glitch_logo from "./images/glich_logo[1].png"
 
+import glitchMov from "./images/glitchmail.gif"
 const assets = {
+  glitchMov,
   glitch,
   sejal,
   sejal2,
