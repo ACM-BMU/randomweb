@@ -33,6 +33,7 @@ import sejal2 from "./images/sejal2.png"
 import glitch from "./images/img3.png"
 import glitch_logo from "./images/glich_logo[1].png"
 import glitchlive from "./images/Glitchlive.png"
+import acmth from "./images/acmth.webp"
 
 import glitchMov from "./images/Glitchlive.gif"
 const assets = {
@@ -71,7 +72,8 @@ const assets = {
   Townhall3,
   Townhall4,
   Links4Geeks,
-  glitch_logo
+  glitch_logo,
+  acmth
 };
 
 export default assets;
