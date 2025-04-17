@@ -38,6 +38,7 @@ import esports from "./images/mail/esports.webp"
 import lazer from "./images/mail/lazertag.webp"
 import musical from "./images/mail/musical.webp"
 import zel from "./images/mail/zelblast.webp"
+import rb from "./images/rb.webp"
 
 import glitchMov from "./images/Glitchlive.gif"
 const assets = {
@@ -81,7 +82,8 @@ const assets = {
   esports,
   lazer,
   musical,
-  zel
+  zel,
+  rb
 };
 
 export default assets;

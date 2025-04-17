@@ -50,6 +50,7 @@ function Hero() {
         <img srcSet={assets.lazer} alt="ACM" />
         <img srcSet={assets.musical} alt="ACM" />
         <img srcSet={assets.zel} alt="ACM" />
+        <img srcSet={assets.rb} alt="rb" />
        {/* hhiiii */}
       </div>
     </>
