@@ -34,6 +34,10 @@ import glitch from "./images/img3.png"
 import glitch_logo from "./images/glich_logo[1].png"
 import glitchlive from "./images/Glitchlive.png"
 import acmth from "./images/acmth.webp"
+import esports from "./images/mail/esports.webp"
+import lazer from "./images/mail/lazertag.webp"
+import musical from "./images/mail/musical.webp"
+import zel from "./images/mail/zelblast.webp"
 
 import glitchMov from "./images/Glitchlive.gif"
 const assets = {
@@ -73,7 +77,11 @@ const assets = {
   Townhall4,
   Links4Geeks,
   glitch_logo,
-  acmth
+  acmth,
+  esports,
+  lazer,
+  musical,
+  zel
 };
 
 export default assets;

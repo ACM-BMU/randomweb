@@ -46,6 +46,10 @@ function Hero() {
         <img srcSet={assets.glitchMov} alt="ACM" />
         <img srcSet={assets.glitchlive} alt="ACM" />
         <img srcSet={assets.acmth} alt="ACM" />
+        <img srcSet={assets.esports} alt="ACM" />
+        <img srcSet={assets.lazer} alt="ACM" />
+        <img srcSet={assets.musical} alt="ACM" />
+        <img srcSet={assets.zel} alt="ACM" />
        {/* hhiiii */}
       </div>
     </>
