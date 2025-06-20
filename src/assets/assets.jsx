@@ -39,6 +39,7 @@ import lazer from "./images/mail/lazertag.webp"
 import musical from "./images/mail/musical.webp"
 import zel from "./images/mail/zelblast.webp"
 import rb from "./images/rb.webp"
+import bubble from "./images/bubble.png"
 
 import glitchMov from "./images/Glitchlive.gif"
 const assets = {
@@ -83,7 +84,8 @@ const assets = {
   lazer,
   musical,
   zel,
-  rb
+  rb,
+  bubble,
 };
 
 export default assets;
