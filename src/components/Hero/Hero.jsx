@@ -24,7 +24,7 @@ function Hero() {
         <img srcSet={assets.Hacktober1} alt="ACM" />
         <img srcSet={assets.Hacktober2} alt="ACM" />
         <img srcSet={assets.UIUXIFYspeaker} alt="ACM" />
-        <img srcSet={assets.UIUXIFYtimeline} alt="ACM" />
+        {/* <img srcSet={assets.UIUXIFYtimeline} alt="ACM" /> */}
         <img srcSet={assets.TownHall1} alt="ACM" />
         <img srcSet={assets.Townhall2} alt="ACM" />
         <img srcSet={assets.Townhall3} alt="ACM" />
@@ -51,6 +51,7 @@ function Hero() {
         <img srcSet={assets.musical} alt="ACM" />
         <img srcSet={assets.zel} alt="ACM" />
         <img srcSet={assets.rb} alt="rb" />
+        <img srcSet={assets.bubble} alt="bubble" />
        {/* hhiiii */}
       </div>
     </>
