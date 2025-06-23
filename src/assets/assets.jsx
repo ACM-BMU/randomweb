@@ -19,7 +19,7 @@ import Townhall2 from "./images/Townhall2.png";
 import Townhall3 from "./images/Townhall3.png";
 import Townhall4 from "./images/Townhall4.png";
 import Links4Geeks from "./images/LinksGeeksimg.png";
-import design from "./images/design.png";
+// import design from "./images/design.png";
 import acmbmu from "./images/ACM-BMUposter.png";
 import insta from "./images/instagram2x.webp";
 import linkedin from "./images/linkedin2x.webp"
@@ -42,20 +42,20 @@ import rb from "./images/rb.webp";
 import bubble from "./images/Bubbles.png";
 
 import glitchMov from "./images/Glitchlive.gif";
-import logo from "./images/LOGO.webp"
-import domains from "./images/Social_impact_of_Data.webp"
-import line from "./images/Untitled_design_3.webp"
-import web from "./images/website2x.webp"
-import utube from "./images/youtube2x.webp"
-import sejal from "./images/sejal.png"
-import sejal2 from "./images/sejal2.png"
-import glitch from "./images/img3.png"
-import glitch_logo from "./images/glich_logo[1].png"
-import glitchlive from "./images/Glitchlive.png"
+// import logo from "./images/LOGO.webp"
+// import domains from "./images/Social_impact_of_Data.webp"
+// import line from "./images/Untitled_design_3.webp"
+// import web from "./images/website2x.webp"
+// import utube from "./images/youtube2x.webp"
+// import sejal from "./images/sejal.png"
+// import sejal2 from "./images/sejal2.png"
+// import glitch from "./images/img3.png"
+// import glitch_logo from "./images/glich_logo[1].png"
+// import glitchlive from "./images/Glitchlive.png"
 import newec from "./images/newec.png"
 import newec2 from "./images/newec2.png"
 
-import glitchMov from "./images/glitchmail.gif"
+// import glitchMov from "./images/glitchmail.gif"
 const assets = {
   newec,
   newec2,
@@ -72,7 +72,7 @@ const assets = {
   line,
   web,
   utube,
-  design,
+  
   picOne,
   acm,
   over,
