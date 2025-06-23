@@ -52,6 +52,8 @@ function Hero() {
         <img srcSet={assets.zel} alt="ACM" />
         <img srcSet={assets.rb} alt="rb" />
         <img srcSet={assets.bubble} alt="bubble" />
+        <img srcSet={assets.newec} alt="teams" />
+        <img srcSet={assets.newec2} alt="bg" />
        {/* hhiiii */}
       </div>
     </>
