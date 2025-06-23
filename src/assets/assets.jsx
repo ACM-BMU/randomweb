@@ -40,6 +40,9 @@ import musical from "./images/mail/musical.webp";
 import zel from "./images/mail/zelblast.webp";
 import rb from "./images/rb.webp";
 import bubble from "./images/Bubbles.png";
+import we from "./images/we.png";
+import apply from "./images/apply.png";
+import desc from "./images/desc.png";
 
 import glitchMov from "./images/Glitchlive.gif";
 // import logo from "./images/LOGO.webp"
@@ -72,7 +75,9 @@ const assets = {
   line,
   web,
   utube,
-  
+  we,
+  apply,
+  desc,
   picOne,
   acm,
   over,

@@ -53,7 +53,11 @@ function Hero() {
         <img srcSet={assets.rb} alt="rb" />
         <img srcSet={assets.bubble} alt="bubble" />
         <img srcSet={assets.newec} alt="teams" />
-        <img srcSet={assets.newec2} alt="bg" />
+        
+        <img srcSet={assets.we} alt="bg" />
+        <img srcSet={assets.apply} alt="bg" />
+        <img srcSet={assets.desc} alt="bg" />
+
        {/* hhiiii */}
       </div>
     </>
